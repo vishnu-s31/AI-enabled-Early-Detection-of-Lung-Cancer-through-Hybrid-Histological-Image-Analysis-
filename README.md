@@ -1,4 +1,3 @@
-# AI-enabled-Early-Detection-of-Lung-Cancer-through-Hybrid-Histological-Image-Analysis-
 
 # 🧠 Advancing Oncology Diagnostics: AI-enabled Early Detection of Lung Cancer through Hybrid Histological Image Analysis
 ![image](https://github.com/user-attachments/assets/a68892c1-9b28-4d38-a08e-48e91abcf8fe)
